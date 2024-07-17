@@ -1,5 +1,4 @@
 ﻿using Application_entreprise_photocopieur.Classes;
-
 #region Function
 void Menu(string choixDeMenu)
 {
@@ -130,6 +129,7 @@ ClientDeEntreprise AjoutDeClient()
         Console.WriteLine("Erreur:Entée une Numero");
         goto restartNumeroRue;
     }
+
     ClientDeEntreprise clientRetourFonction = new ClientDeEntreprise(nom,prenom,ville,rue,numeroDeRue,departement,null);
     Console.Clear();
     restartValidationCreation:
@@ -310,6 +310,7 @@ void AffichePhotocopieurList(List<Photocopieur> listPhototcopieurEntree)
 }
 
 #endregion
+#region application
 bool applicationFonctione = true;
 List<ClientDeEntreprise> listDesClient = new List<ClientDeEntreprise>();
 listDesClient.Add(new ClientDeEntreprise("Robert", "Quill", "CityTown", "RoadPath", 345, 23, null));
@@ -342,5 +343,6 @@ while (applicationFonctione)
             break;
     }
 }
+#endregion
 
 

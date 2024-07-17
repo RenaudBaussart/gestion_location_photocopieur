@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Application_entreprise_photocopieur")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+494d561d96f608f581472d3629bcafee870ad9e2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Application_entreprise_photocopieur")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Application_entreprise_photocopieur")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

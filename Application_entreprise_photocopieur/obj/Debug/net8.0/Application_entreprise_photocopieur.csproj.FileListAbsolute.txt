@@ -12,3 +12,4 @@ C:\Users\renau\source\repos\Application_entreprise_photocopieur\Application_entr
 C:\Users\renau\source\repos\Application_entreprise_photocopieur\Application_entreprise_photocopieur\obj\Debug\net8.0\Application_entreprise_photocopieur.pdb
 C:\Users\renau\source\repos\Application_entreprise_photocopieur\Application_entreprise_photocopieur\obj\Debug\net8.0\Application_entreprise_photocopieur.genruntimeconfig.cache
 C:\Users\renau\source\repos\Application_entreprise_photocopieur\Application_entreprise_photocopieur\obj\Debug\net8.0\ref\Application_entreprise_photocopieur.dll
+C:\Users\renau\source\repos\Application_entreprise_photocopieur\Application_entreprise_photocopieur\obj\Debug\net8.0\Application_entreprise_photocopieur.sourcelink.json
